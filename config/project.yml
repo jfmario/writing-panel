@@ -1,0 +1,38 @@
+
+name: Sample Project
+title: Sample Title
+author: John F Marion
+
+desc: >
+    This is the description of the project.
+
+short_desc: Brief sample description for web page only.
+
+toc:
+    -
+        name: Introduction
+        src: extra/intro
+        index: null
+    -
+        name: Who
+        src: c1
+    -
+        name: What
+        src: c2
+    -
+        name: Middletext
+        src: extra/middle
+        index: null
+    -
+        name: When
+        src: c3
+    -
+        name: Where
+        src: c4
+    -
+        name: Why
+        src: c5
+    -
+        name: Epilogue
+        src: extra/end
+        index: null
